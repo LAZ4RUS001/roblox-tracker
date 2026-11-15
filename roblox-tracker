@@ -1,0 +1,7 @@
+cd c:\Users\Windows\Downloads\roblox-executor-mcp-main\hub-tracker
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<USERNAME-ของ-PANEER>/<REPO-NAME>.git
+git push -u origin main
